@@ -14,7 +14,7 @@ from PIL import ImageFont
 OUTPUT_DIR = "output"
 
 LABEL_WIDTH_MM = 30
-LABEL_HEIGHT_MM = 40
+LABEL_HEIGHT_MM = 30
 
 DPI = 600
 
