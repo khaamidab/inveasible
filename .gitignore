@@ -220,3 +220,8 @@ __marimo__/
 #Output Folder
 output/
 input/
+chat-history/
+dpots.csv
+Chat Exports/
+need-rename/
+rename_log.csv
