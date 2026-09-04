@@ -10,6 +10,8 @@ blast date (created_at date == blast_date - N days), still needing a
 follow-up. See README notes below / conversation for how this was derived
 from the existing 31 Aug H1.xls / H2.xls samples.
 
+Used for generating blast lists for WhatsApp re-engagement campaigns, based on QONTAK
+
 Usage:
     python generate_blast.py --date 01-09-2026
 """
