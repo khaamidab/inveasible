@@ -218,8 +218,9 @@ __marimo__/
 .streamlit/secrets.toml
 
 #Output Folder
-output/
+blast/
 input/
+output/
 chat-history/
 dpots.csv
 Chat Exports/
